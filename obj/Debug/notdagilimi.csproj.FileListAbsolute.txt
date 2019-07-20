@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c# çalışmalar\2-3martödev\notdagilimi\bin\Debug\notdagilimi.exe.config
+C:\Users\User\Desktop\c# çalışmalar\2-3martödev\notdagilimi\bin\Debug\notdagilimi.exe
+C:\Users\User\Desktop\c# çalışmalar\2-3martödev\notdagilimi\bin\Debug\notdagilimi.pdb
+C:\Users\User\Desktop\c# çalışmalar\2-3martödev\notdagilimi\obj\Debug\notdagilimi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c# çalışmalar\2-3martödev\notdagilimi\obj\Debug\notdagilimi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# çalışmalar\2-3martödev\notdagilimi\obj\Debug\notdagilimi.exe
+C:\Users\User\Desktop\c# çalışmalar\2-3martödev\notdagilimi\obj\Debug\notdagilimi.pdb
